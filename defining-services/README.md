@@ -108,7 +108,7 @@ You will now need to gather together the information required to fill in the var
 >
 > All the detailed information for the complete definition of an E-RIHS service which constitutes the identity if not the uniqueness of the service is a combination of the Service description and all of the linked details describing the previously documented related entities (people, organisation, tools (equipment, software)) see model diagram.
 
-[<img height="640px" src="https://e-rihs.io/graphics/Service%20Links%20v1.0.png" alt="E-RIHS Service Model Diagram">]([https://model.link](https://research.ng-london.org.uk/modelling/?url=https://raw.githubusercontent.com/E-RIHS/hs-interoperability/main/Model%20Relationships/Service%20Links%20v1.0.tsv))
+[<img height="640px" src="https://e-rihs.io/graphics/Service%20Links%20v1.0.png" alt="E-RIHS Service Model Diagram">](https://research.ng-london.org.uk/modelling/?url=https://raw.githubusercontent.com/E-RIHS/hs-interoperability/main/Model%20Relationships/Service%20Links%20v1.0.tsv)
 
 #### Service Metadata that may need to be prepared/gathered beforehand
 
